@@ -1,0 +1,8 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 10 13:41:27.175565 2018] [mpm_event:notice] [pid 1:tid 140053832697728] AH00489: Apache/2.4.20 (Unix) configured -- resuming normal operations
+[Wed Oct 10 13:41:27.176598 2018] [mpm_event:info] [pid 1:tid 140053832697728] AH00490: Server built: Jun  7 2016 17:55:26
+[Wed Oct 10 13:41:27.177429 2018] [core:notice] [pid 1:tid 140053832697728] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 10 14:05:09.237083 2018] [mpm_event:notice] [pid 1:tid 140245298919296] AH00489: Apache/2.4.20 (Unix) configured -- resuming normal operations
+[Wed Oct 10 14:05:09.238482 2018] [mpm_event:info] [pid 1:tid 140245298919296] AH00490: Server built: Jun  7 2016 17:55:26
+[Wed Oct 10 14:05:09.239316 2018] [core:notice] [pid 1:tid 140245298919296] AH00094: Command line: 'httpd -D FOREGROUND'
